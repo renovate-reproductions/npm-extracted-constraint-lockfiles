@@ -22,7 +22,7 @@
     "@prettier/plugin-xml": "2.2.0",
     "@tsconfig/node18": "2.0.1",
     "@tsconfig/strictest": "2.0.1",
-    "@types/node": "18.16.18",
+    "@types/node": "18.16.19",
     "@yarnpkg/sdks": "3.0.0-rc.45",
     "husky": "8.0.3",
     "lint-staged": "^13.2.2",
